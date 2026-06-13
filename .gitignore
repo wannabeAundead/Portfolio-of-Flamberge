@@ -1,2 +1,7 @@
+node_modules/
+dist/
+.npm-cache/
+vite-server*.log
+
 /_Catch/
 /_cacach/
